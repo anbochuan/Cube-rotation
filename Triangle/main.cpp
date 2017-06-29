@@ -1,5 +1,5 @@
 #include <iostream>
-#define GLEW_STATIC  // define GLEW_STATIC since we're using the static version of the GLEW library.
+#define GLEW_STATIC  
 #include <GL/glew.h>
 #include <stdio.h>
 #include <string>
